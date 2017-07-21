@@ -1,7 +1,7 @@
 # Sanket Deshmukh
 
 ## About Me: 
-I am a **Machine Learning/Natural Language Processing** Enthusiast. I love coding in python.. My technical expertise includes cross-platform proficiency (Windows and Linux), fluency in Python, C, Shell scripting, version control tools like 'git', automation using CasperJS (for Web Applications), etc. I am also familiar with C++, R, Core Java, SQL, JavaScript, HTML, CSS etc I am currently studying MS in Computer Science at the Universiy of Utah. I would love to collaborate on projects that include application of ML algorithms for automation.
+I am a **Machine Learning/Natural Language Processing** Enthusiast. I love coding in python. My technical expertise includes cross-platform proficiency (Windows and Linux), fluency in Python, C, Shell scripting, version control tools like 'git', automation using CasperJS (for Web Applications), etc. I am also familiar with C++, R, Core Java, SQL, JavaScript, HTML, CSS etc I am currently studying MS in Computer Science at the Universiy of Utah. I would love to collaborate on projects that include application of ML algorithms for automation.
 
 ## Experience:
 
@@ -9,7 +9,7 @@ I am a **Machine Learning/Natural Language Processing** Enthusiast. I love codin
 - Working on analysis and classification of snowflakes using Image Processing and Machine Learning using the image dataset obtained from Multiangle SnowFlakes Camera (MASC).
 - Developed a desktop application in python to analyse, label the images obtained from MASC, train a classifier model, and classify the image dataset based on the snowflake types.
 
-### Decision Scientist (Mu Sigma Business Solutions, Bangalore ) 
+### Decision Scientist (Mu Sigma Business Solutions, Bangalore) August 2014 - July 2016 
 
 #### QA/Automation Testing:
 - Designed and developed automated test cases for testing interactive web appliaction/IDE "RCloud" and a web based machine learning platform 
@@ -21,3 +21,4 @@ I am a **Machine Learning/Natural Language Processing** Enthusiast. I love codin
 ### Email: sanketd11@gmail.com  ; sanketd@cs.utah.edu
 ### Phone: +1 (385) 268-8737
 ### Address: 356 South, University Street, Apt. 3, Salt Lake City, UT-84102, USA.
+### LinkedIn: https://www.linkedin.com/in/sanket-deshmukh-1b85b756/
